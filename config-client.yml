@@ -2,4 +2,6 @@ info:
   profile: default
   from: git
   
-test: bbb
+test:
+  profile:test
+  from:test
